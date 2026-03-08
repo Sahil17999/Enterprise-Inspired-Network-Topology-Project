@@ -19,3 +19,38 @@ The goal of this project is to practice and demonstrate:
 * IP addressing for point-to-point links
 * Simulating internet connectivity using loopback interfaces
 * Troubleshooting interface and connectivity issues
+
+## Requirements
+
+To view and run the network topology used in this project, you must install **Cisco Packet Tracer**.
+
+### Steps
+
+1. Download and install **Cisco Packet Tracer** from the Cisco Networking Academy website.
+2. Open the `.pkt` file included in this repository.
+3. Explore the topology and review the router configurations.
+4. Use the CLI within Packet Tracer to practice and test the commands used in the lab.
+
+Packet Tracer allows you to simulate real networking equipment and interact with routers and interfaces as you would in a real environment.
+
+---
+
+## Documentation
+
+This repository also includes a **complete guide PDF** that explains the lab in detail.
+
+The document covers:
+
+* Step-by-step configuration of the topology
+* Explanation of the networking concepts used
+* How each protocol in the lab works
+* Command breakdowns and troubleshooting steps
+
+You can find the guide in the repository as:
+
+```
+enterprise-network-guide.pdf
+```
+
+This document was created to make it easier for learners to understand the configuration process and the reasoning behind each step.
+
