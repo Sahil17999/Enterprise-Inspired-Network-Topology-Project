@@ -33,8 +33,6 @@ To view and run the network topology used in this project, you must install **Ci
 
 Packet Tracer allows you to simulate real networking equipment and interact with routers and interfaces as you would in a real environment.
 
----
-
 ## Documentation
 
 This repository also includes a **complete guide PDF** that explains the lab in detail.
