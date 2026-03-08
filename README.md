@@ -19,9 +19,3 @@ The goal of this project is to practice and demonstrate:
 * IP addressing for point-to-point links
 * Simulating internet connectivity using loopback interfaces
 * Troubleshooting interface and connectivity issues
-
-## Purpose
-
-This project is meant for **learning and experimentation**, especially for students studying networking or preparing for certifications. The configuration focuses on understanding the fundamentals rather than building a fully featured enterprise network.
-
-Although inspired by real enterprise environments, the topology in this repository is intentionally **simplified** to make the core ideas easier to understand and reproduce in a lab environment.
